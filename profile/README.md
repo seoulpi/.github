@@ -7,4 +7,4 @@ SPI 개발팀에 합류하시면 다양한 경험을 가진 동료들 사이에�
 
 👉 [[SPI 홈페이지 바로가기]](https://seoulpi.io)
 
-👉 [[SPI 채용 바로가기]](https://careers.seoulpi.io)
+👉 [[SPI 채용 바로가기]](https://career.flex.team/spi)
